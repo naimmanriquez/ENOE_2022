@@ -21,3 +21,4 @@ Si denotamos por Y a la variable a predecir, y por ![equation](https://latex.cod
 
 ![equation](https://latex.codecogs.com/svg.image?P\left&space;[&space;_{Y_i}=1|&space;X&space;\right&space;]=P\left&space;[&space;_{Y_i}=1|&space;X_i&space;=&space;_{x_i},...,_{X_k}=_{x_i}\right&space;]=\frac{1}{1&plus;exp\left&space;(&space;-\left&space;[&space;_{\beta&space;_0}&plus;\sum_{i=1}^{k}&space;\beta&space;_i_{X_i}&space;\right&space;]&space;\right&space;)})
 
+Para el caso de este modelo, los valores que puede tomar la variable dependiente es intención de cambiar empleo (1) y no cambiar empleo (0) 
