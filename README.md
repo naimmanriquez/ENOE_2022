@@ -7,3 +7,14 @@ La regresión logística se basa en la denominada función logística, donde se 
 
 ![equation](https://latex.codecogs.com/svg.image?\large&space;_{Yi}&space;=&space;\frac{1}{1&plus;exp(-z)}&plus;_{ui})
 
+Donde, 
+
+![equation](https://latex.codecogs.com/svg.image?_{Yi}:)Variable dependiente. Puede tomar valores de cero o uno
+
+![equation](https://latex.codecogs.com/svg.image?_{Z}:) Scoring Logístico
+
+En el cual ![equation](https://latex.codecogs.com/svg.image?z&space;=&space;_{\beta_0}&plus;_{\beta_1&space;X_1}&plus;&plus;_{\beta_2&space;X_2}&plus;...&plus;_{\beta_k&space;X_k})
+
+![equation](https://latex.codecogs.com/svg.image?_{u_i}): Es una variable aleatoria que se distribuye normalmente 
+
+Si denotamos por Y a la variable a predecir, y por ![equation](https://latex.codecogs.com/svg.image?\large&space;\_{x1},&space;_{x2},&space;_{x3}&space;...&space;_{xn}) a las k variables predictoras, la regresión logística se expresa de la manera siguiente:
